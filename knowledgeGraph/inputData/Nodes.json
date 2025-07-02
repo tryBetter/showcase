@@ -1,0 +1,5 @@
+[
+  { "id": "node-1", "label": "爱因斯坦", "properties": { "birth_year": 1879 } },
+  { "id": "node-2", "label": "相对论", "properties": { "type": "理论" } },
+  { "id": "node-3", "label": "质能方程", "remark": "著名的公式：$$E=mc^2$$" }
+]

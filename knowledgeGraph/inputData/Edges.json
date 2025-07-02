@@ -1,0 +1,4 @@
+[
+  { "source": "node-1", "target": "node-2", "label": "提出了" },
+  { "source": "node-2", "target": "node-3", "label": "包含了" }
+]
